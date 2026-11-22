@@ -1,0 +1,34 @@
+# Build and delivery output
+/outputs/
+/work/BilingualOverlay/outputs/
+
+# Generated test artifacts and screenshots
+/work/BilingualOverlay/self-test.txt
+/work/BilingualOverlay/trace-self-test.txt
+/work/BilingualOverlay/ui-check.png
+*.log
+
+# Local application data and user-specific settings
+settings.json
+history.json
+window-position.txt
+
+# IDE and compiler intermediates
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# General build artifacts
+*.exe
+*.zip
+*.pdb
+*.dll
+
+# Credentials and environment overrides
+.env
+.env.*
+*.pfx
+*.p12
+*.snk

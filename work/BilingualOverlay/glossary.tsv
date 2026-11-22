@@ -1,0 +1,11 @@
+# 术语优先表：每行使用一个制表符分隔。
+# 在线翻译时，左列术语会以受保护占位符送入翻译，返回后强制恢复为右列译文。
+# 左列和右列也同时加入本地词库，完整短语可离线翻译。
+悬浮窗	overlay
+中英对照	bilingual comparison
+术语表	glossary
+剪贴板	clipboard
+隐私模式	privacy mode
+选中文字	selected text
+全屏	fullscreen
+点击穿透	click-through
